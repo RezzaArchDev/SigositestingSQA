@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_kelas_id</name>
+   <tag></tag>
+   <elementGuidId>47750faa-b994-40b2-ba26-8a309cbfaca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'kelas_id' and (text() = 'Tanpa kelasX 1X 2X 3X 4XI 1XI 2XI 3XII 1XII 2XII 3' or . = 'Tanpa kelasX 1X 2X 3X 4XI 1XI 2XI 3XII 1XII 2XII 3')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'kelas_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;kelas_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;kelas_id&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a66d294d-477f-48fd-ba2b-20d9ce9f168d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kelas_id</value>
+      <webElementGuid>18efb49f-220c-49fd-9a2a-f456c2399443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanpa kelasX 1X 2X 3X 4XI 1XI 2XI 3XII 1XII 2XII 3</value>
+      <webElementGuid>570f92b9-9bee-4062-bab2-ff23bf7d1ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-090dd1a69fdba4c29be99425bc11349d</value>
+      <webElementGuid>25f8fc50-1f36-43f9-a2b8-8253f0fdc59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'kelas_id']</value>
+      <webElementGuid>fe5b54af-7d6b-4c93-bece-8cef66ab4895</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'kelas_id']</value>
+      <webElementGuid>a3e7d053-2676-45be-8d28-a212f3500ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kelas_id' and (text() = 'Tanpa kelasX 1X 2X 3X 4XI 1XI 2XI 3XII 1XII 2XII 3' or . = 'Tanpa kelasX 1X 2X 3X 4XI 1XI 2XI 3XII 1XII 2XII 3')]</value>
+      <webElementGuid>313b2f29-e899-4023-9269-4932d4cb31b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

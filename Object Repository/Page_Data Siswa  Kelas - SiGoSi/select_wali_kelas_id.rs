@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_wali_kelas_id</name>
+   <tag></tag>
+   <elementGuidId>1e36d9e7-d288-4cf0-8e0d-e7504d97c00b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'wali_kelas_id' and (text() = 'Belum ditentukanBambang Wijaya, S.Pdwali kelas X 1wali kelas X 2wali kelas X 3wali kelas X 4wali kelas XI 2wali kelas XI 3wali kelas XII 1wali kelas XII 2wali kelas XII 3' or . = 'Belum ditentukanBambang Wijaya, S.Pdwali kelas X 1wali kelas X 2wali kelas X 3wali kelas X 4wali kelas XI 2wali kelas XI 3wali kelas XII 1wali kelas XII 2wali kelas XII 3')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'wali_kelas_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;wali_kelas_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;wali_kelas_id&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>048757db-853c-4ad0-bd4c-3367e3511999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wali_kelas_id</value>
+      <webElementGuid>49c82b69-22cf-4c30-85d5-9040c29de5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belum ditentukanBambang Wijaya, S.Pdwali kelas X 1wali kelas X 2wali kelas X 3wali kelas X 4wali kelas XI 2wali kelas XI 3wali kelas XII 1wali kelas XII 2wali kelas XII 3</value>
+      <webElementGuid>b24a8fc1-a7c7-49a9-92f1-48c7ee0c194c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fbdb60c41e08236d890103baaf307e6c</value>
+      <webElementGuid>d7ab252a-23cd-4f8c-a2a0-6d19880ab8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'wali_kelas_id']</value>
+      <webElementGuid>d0966b26-4882-429e-87d9-6dff965c143f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'wali_kelas_id']</value>
+      <webElementGuid>b3bd60ee-05ea-4fcb-adc5-0c6718851b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'wali_kelas_id' and (text() = 'Belum ditentukanBambang Wijaya, S.Pdwali kelas X 1wali kelas X 2wali kelas X 3wali kelas X 4wali kelas XI 2wali kelas XI 3wali kelas XII 1wali kelas XII 2wali kelas XII 3' or . = 'Belum ditentukanBambang Wijaya, S.Pdwali kelas X 1wali kelas X 2wali kelas X 3wali kelas X 4wali kelas XI 2wali kelas XI 3wali kelas XII 1wali kelas XII 2wali kelas XII 3')]</value>
+      <webElementGuid>ce03748f-3146-4ff2-a4b3-25f0119f4a13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

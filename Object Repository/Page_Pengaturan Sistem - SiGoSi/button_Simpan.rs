@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan</name>
+   <tag></tag>
+   <elementGuidId>3df5da77-c93e-40d1-9ec0-8310fdb4dde3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fld ') and contains(concat(' ', normalize-space(@class), ' '), ' end ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.fld.end .btn-p[type=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb5dbd9c-a3cd-4f22-8247-4f3c2676b5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9cc68754-e9fc-4527-9d67-448633b44f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-p</value>
+      <webElementGuid>2cbf66a1-fd6b-406a-a638-2c6abe06c3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>84e4391e-0fb7-48a8-9509-c54c16e68699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-356dc3ce20e07ee7379967cadd7bd2a4</value>
+      <webElementGuid>7f8193c7-a8a4-47e1-bb64-91262cbf4fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fld ') and contains(concat(' ', normalize-space(@class), ' '), ' end ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      <webElementGuid>3df6a5f9-5474-4635-b6fa-4c4243a409a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fld ') and contains(concat(' ', normalize-space(@class), ' '), ' end ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      <webElementGuid>4b562db4-4b5b-42fa-b29d-5fe00665783e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>e2883bf1-5043-4ee3-bf81-b7c4b18a65c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

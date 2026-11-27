@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alur Pelaporan</name>
+   <tag></tag>
+   <elementGuidId>65dd4ddd-6278-4d06-9cb5-dd0b0a0587a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.link[href=&quot;\/SigosiWeb\/public\/\#alur-pelaporan&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#alur-pelaporan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu >> internal:role=link[name=&quot;Alur Pelaporan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68687fb8-2920-4e62-9812-dac273318b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>3fcc811c-7bde-4aee-8f53-8105d40a1843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SigosiWeb/public/#alur-pelaporan</value>
+      <webElementGuid>de6c6d14-5a1c-492d-a7e4-e10dcccc73df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alur Pelaporan</value>
+      <webElementGuid>8e586f9f-c510-4c6d-be4d-05cd0952a33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c30a4ac4de3657f4e3489414429c7ce9</value>
+      <webElementGuid>959df560-668e-4395-a8aa-e2c3980724b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#alur-pelaporan')]</value>
+      <webElementGuid>04ab06cf-1b62-4652-8053-eb0e50fc5e19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#alur-pelaporan')]</value>
+      <webElementGuid>251a5a63-b5c7-4759-b43e-286c518c9f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SigosiWeb/public/#alur-pelaporan' and (text() = 'Alur Pelaporan' or . = 'Alur Pelaporan')]</value>
+      <webElementGuid>8a8ea6b5-a3e9-4516-a868-d1ace1ab720b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

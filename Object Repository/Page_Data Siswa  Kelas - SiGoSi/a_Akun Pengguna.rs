@@ -6,12 +6,16 @@
    <elementGuidId>a9981a79-6b83-47be-9087-6a3921b3335b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@href = '/SigosiWeb/public/admin/akun']</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/akun' and (text() = 'Akun Pengguna' or . = 'Akun Pengguna')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>[href=&quot;\/SigosiWeb\/public\/admin\/akun&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/akun']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6ec3656f-f167-4ebf-a89b-31e7efca0c2f</webElementGuid>
+      <webElementGuid>17cb8eed-dcd9-40ec-97f3-24853f7935fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/SigosiWeb/public/admin/akun</value>
-      <webElementGuid>bba688a9-d903-4edf-8e8d-621e69aeacdc</webElementGuid>
+      <webElementGuid>6a37ba4b-5330-4d75-b46c-922b78bff5a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Akun Pengguna</value>
-      <webElementGuid>95ee6527-a478-4da1-a2e7-5006b9dce6dc</webElementGuid>
+      <webElementGuid>5988f802-a749-44a0-97f9-caa15d7b5f93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-d3bbd7deba2576a3fc90703b39968201</value>
-      <webElementGuid>73399165-9e04-46a5-903f-54b90b4980c2</webElementGuid>
+      <webElementGuid>f50a2007-49f8-49ae-bdd0-b73fbb3f6c29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/akun']</value>
-      <webElementGuid>e1c72b33-3b63-421f-b4f2-dd02f9612b51</webElementGuid>
+      <webElementGuid>b6f02958-3177-4353-92dc-901b844dc712</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/akun']</value>
-      <webElementGuid>5678609c-128f-4ec2-bde2-78b451b8f06e</webElementGuid>
+      <webElementGuid>855e9d69-8920-4c82-82a1-2b8cc54a76fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/SigosiWeb/public/admin/akun' and (text() = 'Akun Pengguna' or . = 'Akun Pengguna')]</value>
-      <webElementGuid>a4d21fed-e282-4182-a8be-63f689165454</webElementGuid>
+      <webElementGuid>df029941-c598-4eee-8eda-560213269d83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

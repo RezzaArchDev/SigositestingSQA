@@ -6,12 +6,16 @@
    <elementGuidId>b1cb0c3a-9a66-4056-bf0a-368c9af39490</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@href = '/SigosiWeb/public/admin/pengaturan']</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/pengaturan' and (text() = 'Pengaturan Sistem' or . = 'Pengaturan Sistem')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>[href=&quot;\/SigosiWeb\/public\/admin\/pengaturan&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/pengaturan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8945f2e2-fb4f-454a-9040-fa7c59d11f13</webElementGuid>
+      <webElementGuid>a59be55f-df72-41cf-98cd-37020d37f4b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/SigosiWeb/public/admin/pengaturan</value>
-      <webElementGuid>216d360e-02ca-4b9a-8759-254c484e27b1</webElementGuid>
+      <webElementGuid>bb82a01b-c5ce-4764-aec1-ba6ffeb5071a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pengaturan Sistem</value>
-      <webElementGuid>7d9cc5b7-f1e7-4787-a84a-c8af9197931f</webElementGuid>
+      <webElementGuid>7726e5f7-6ef3-490e-81dd-ebb228660af1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9ef704ace8ba7fab46ff761cdf7c77b7</value>
-      <webElementGuid>86b0cd74-f559-4517-ada4-42ab9b681755</webElementGuid>
+      <webElementGuid>b0a24d61-8b0a-4adc-a8e3-af77c9dbdb9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/pengaturan']</value>
-      <webElementGuid>b54d3fab-7f41-4f8c-8cc0-36c11dbaf9c1</webElementGuid>
+      <webElementGuid>39b5e7c0-7ffb-43cf-9edf-ceaa6b0f237b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/pengaturan']</value>
-      <webElementGuid>165e6c22-6d95-479c-b14f-c2a14e4c1885</webElementGuid>
+      <webElementGuid>b337d166-10a5-4c62-88d2-5e44efc5d5e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/SigosiWeb/public/admin/pengaturan' and (text() = 'Pengaturan Sistem' or . = 'Pengaturan Sistem')]</value>
-      <webElementGuid>bdf868db-7355-4e19-9b89-342b2ae9b148</webElementGuid>
+      <webElementGuid>07ac2366-690b-42be-9c13-5de9e5d7cfb7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

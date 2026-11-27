@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_jenis_kelamin</name>
+   <tag></tag>
+   <elementGuidId>a2ecaef0-abaa-48f8-acf1-f4a544cc227a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'jenis_kelamin' and (text() = 'Pilih...Laki-lakiPerempuan' or . = 'Pilih...Laki-lakiPerempuan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'jenis_kelamin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;jenis_kelamin&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;jenis_kelamin&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b6d69126-c25c-42bb-bcaa-372978779b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_kelamin</value>
+      <webElementGuid>20f99822-1405-4325-87fc-81bbceb3c08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih...Laki-lakiPerempuan</value>
+      <webElementGuid>c1f7d7cf-4d82-402e-a669-5819c73f7d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-78ee56de026148dd1e38b16229127c35</value>
+      <webElementGuid>46537118-1d29-457f-9a74-1138ad04e29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'jenis_kelamin']</value>
+      <webElementGuid>b9da56d8-6fb4-4032-a8d4-a235283069cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'jenis_kelamin']</value>
+      <webElementGuid>0f2497ad-0b8f-4de2-8809-f0e72c5c865e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_kelamin' and (text() = 'Pilih...Laki-lakiPerempuan' or . = 'Pilih...Laki-lakiPerempuan')]</value>
+      <webElementGuid>10e3de2e-543a-4250-bebc-d9b5f4846830</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

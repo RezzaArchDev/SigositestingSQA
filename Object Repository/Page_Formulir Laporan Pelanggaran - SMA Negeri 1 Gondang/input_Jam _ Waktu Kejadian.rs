@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jam _ Waktu Kejadian</name>
+   <tag></tag>
+   <elementGuidId>8db08bf6-cac2-4458-8b6f-a744502d0c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#jam</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'jam']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Jam / Waktu Kejadian&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>db85de44-4b32-431b-b192-844572b65166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jam</value>
+      <webElementGuid>f0d2b49c-5a72-4f0c-be51-705e5a2eda28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jam</value>
+      <webElementGuid>60532d6d-127b-4cb0-b6fd-7eeb93cd7250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>time</value>
+      <webElementGuid>f8c0f656-9f5d-4086-a7e3-73b572302c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dbc33539b89de15c43b5a57743b1b20b</value>
+      <webElementGuid>807ce0f8-1504-4957-a93c-8e4f5b5af0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'jam']</value>
+      <webElementGuid>a8021bd6-27d3-4967-8744-d95194599d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'jam']</value>
+      <webElementGuid>fdcab5f7-4d7a-4660-8ea9-1d126b92773b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'jam' and @name = 'jam' and @type = 'time']</value>
+      <webElementGuid>91e8740c-56be-48d9-9e8b-1ca17db90ea5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

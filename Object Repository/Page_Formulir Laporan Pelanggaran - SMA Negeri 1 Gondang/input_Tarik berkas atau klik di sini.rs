@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tarik berkas atau klik di sini</name>
+   <tag></tag>
+   <elementGuidId>d29b45f0-9d06-4a42-8e87-45280d89e08d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bukti</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'bukti']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tarik berkas atau klik di sini\n                        Format JPG, PNG, atau MP4 (Maks. 25 MB)\n                    \n                    Pilih File&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>297c1e2c-2a9f-4101-b164-8dd7581bd775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sr-only</value>
+      <webElementGuid>29ad3cfe-959e-437b-8b4d-11d2c11d9fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bukti</value>
+      <webElementGuid>de21a824-31f4-4361-b92f-d33d54f72a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>bukti</value>
+      <webElementGuid>8ae9c6be-ed46-44da-997a-4cecf759245a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>02219e85-e3a8-42e5-9c05-463828111ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.jpg,.jpeg,.png,.mp4,image/jpeg,image/png,video/mp4</value>
+      <webElementGuid>c82b71f2-d952-430d-b4cd-91a5fe26099d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4f696a885ee4f7bc6d43c83b570a441f</value>
+      <webElementGuid>837422e7-f18f-438e-9ba5-0f23de81ffab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'bukti']</value>
+      <webElementGuid>d308b632-a7e0-4d99-9add-ba3d2fa17c6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'bukti']</value>
+      <webElementGuid>80e38787-25aa-4bba-9465-af30f1af1518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'bukti' and @name = 'bukti' and @type = 'file']</value>
+      <webElementGuid>696d2ada-da28-4d44-bc31-e541735e844c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

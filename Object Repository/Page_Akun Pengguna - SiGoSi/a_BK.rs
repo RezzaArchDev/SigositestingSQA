@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BK</name>
+   <tag></tag>
+   <elementGuidId>f06cc729-3b63-4fc4-b69d-2422292e3308</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/akun?role=BK']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/SigosiWeb\/public\/admin\/akun\?role\=BK&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>578b7567-baf3-45bd-8ff6-1b1d9c1d7f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SigosiWeb/public/admin/akun?role=BK</value>
+      <webElementGuid>ef67264c-6051-4f0c-a9fb-f0896c6580f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BK</value>
+      <webElementGuid>040ef95d-4e41-46ad-9700-3a15f1a07dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b4cefa9b354ca698d08a8eb7e0477ec7</value>
+      <webElementGuid>51f1465d-b245-45b7-bcb8-c545ebcc848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/SigosiWeb/public/admin/akun?role=BK']</value>
+      <webElementGuid>28d93dac-cdf2-4431-9c07-99bd17868610</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/SigosiWeb/public/admin/akun?role=BK']</value>
+      <webElementGuid>45663069-bc55-4568-bfc7-17d44631071f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SigosiWeb/public/admin/akun?role=BK' and (text() = 'BK' or . = 'BK')]</value>
+      <webElementGuid>0608de38-5710-4ac3-8a51-d7ff84939789</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

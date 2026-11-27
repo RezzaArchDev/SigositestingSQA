@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Akun</name>
+   <tag></tag>
+   <elementGuidId>8cbc96b7-76ea-48a7-9dca-2f4c3247dd7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '+ Tambah Akun' or . = '+ Tambah Akun')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-akun')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-p[data-modal=&quot;m-akun&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;+ Tambah Akun&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9143f14-edf6-44cb-983b-6b2f1d9956a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d01887c2-f7d9-4f8d-a868-7c61d342ec37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-p</value>
+      <webElementGuid>9b4b5ca4-a570-4ac9-9205-9942e23cee0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modal</name>
+      <type>Main</type>
+      <value>m-akun</value>
+      <webElementGuid>2a187d37-fdfe-43f8-9cd4-fa0885e3116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Tambah Akun</value>
+      <webElementGuid>0416e2bc-f214-49ba-af39-4f8c411613f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-259ef252b2d9103135e7c3c6a3a04249</value>
+      <webElementGuid>f96fab5a-640b-49a4-9a1d-7233c0f772f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-akun')]</value>
+      <webElementGuid>cbdac737-967b-44f9-ba5a-ee3fe3d0487b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-akun')]</value>
+      <webElementGuid>fc1d0031-9518-47ef-a6cf-ca974c146c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Tambah Akun' or . = '+ Tambah Akun')]</value>
+      <webElementGuid>bbc608f5-33c7-4a11-9fba-76c02a2d37a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

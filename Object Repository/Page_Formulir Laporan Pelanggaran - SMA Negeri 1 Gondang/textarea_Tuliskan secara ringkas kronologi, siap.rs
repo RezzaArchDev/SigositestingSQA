@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Tuliskan secara ringkas kronologi, siap</name>
+   <tag></tag>
+   <elementGuidId>35ee061b-405f-4474-b36c-b74db149a860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#keterangan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'keterangan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tuliskan secara ringkas kronologi, siapa saja yang terlibat, atau rincian penting untuk penyelidikan BK...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>b59a058f-1beb-423e-8e46-50d21237f99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>keterangan</value>
+      <webElementGuid>f34e5b00-972c-4300-b6dd-02def4125cfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>keterangan</value>
+      <webElementGuid>fb89c0e4-5089-4053-bc7b-86d6b44cd8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tuliskan secara ringkas kronologi, siapa saja yang terlibat, atau rincian penting untuk penyelidikan BK...</value>
+      <webElementGuid>0d4cdd7d-50c4-47e4-b3c7-cee80bdbb75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b9a22203beab9f7c2563e92f9fec9739</value>
+      <webElementGuid>1b01c055-52e0-4e43-8e81-afc2e928e55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'keterangan']</value>
+      <webElementGuid>14ce3baf-1003-42a6-942d-7098748ac24e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'keterangan']</value>
+      <webElementGuid>8c75805c-e586-47d7-984b-799c55f09564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'keterangan' and @name = 'keterangan' and @placeholder = 'Tuliskan secara ringkas kronologi, siapa saja yang terlibat, atau rincian penting untuk penyelidikan BK...']</value>
+      <webElementGuid>3ffb2176-26c2-4713-b634-80c98a2d9a73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

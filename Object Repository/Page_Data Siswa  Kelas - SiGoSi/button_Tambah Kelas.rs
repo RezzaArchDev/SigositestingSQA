@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Kelas</name>
+   <tag></tag>
+   <elementGuidId>86f7b4db-7f81-44a5-a80b-e729bfba9336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '+ Tambah Kelas' or . = '+ Tambah Kelas')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-kelas')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-p[data-modal=&quot;m-kelas&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;+ Tambah Kelas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cbc6e72-2d8c-4e3c-ac12-27cee70e4f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>930f8c67-6398-4df6-8c0c-5950f0dca0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-p</value>
+      <webElementGuid>967d173f-2180-47b5-883a-4e6549acfdee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modal</name>
+      <type>Main</type>
+      <value>m-kelas</value>
+      <webElementGuid>9432b641-6eaf-466c-87b2-051b842b4c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Tambah Kelas</value>
+      <webElementGuid>7cdcac89-634b-4af3-b65e-f20cc1aa42bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f5ac86a40024a342c581814bee3d6c2a</value>
+      <webElementGuid>ed48d9ef-4ebf-4522-92a0-5c076040ca25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-kelas')]</value>
+      <webElementGuid>59abf84d-b0dc-484f-bd29-ba308d0d35cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@data-modal = 'm-kelas')]</value>
+      <webElementGuid>a8ca9b3c-eab6-4fe7-bb60-d24685fd356f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Tambah Kelas' or . = '+ Tambah Kelas')]</value>
+      <webElementGuid>dcdcba6b-7597-4054-a915-91f3454987f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

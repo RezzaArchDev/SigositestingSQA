@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tata Tertib</name>
+   <tag></tag>
+   <elementGuidId>bace0efc-ce9b-4bdc-b4e5-a39120db1fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.link[href=&quot;\/SigosiWeb\/public\/\#tata-tertib&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#tata-tertib')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu >> internal:role=link[name=&quot;Tata Tertib&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e369b415-f421-41f8-b7a4-39ab44eb1053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>c56e621b-f5b3-4d65-b4ea-667cf718c5dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SigosiWeb/public/#tata-tertib</value>
+      <webElementGuid>2dc67f6b-b4ee-4ca5-980f-18dec0b3fadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tata Tertib</value>
+      <webElementGuid>9e997a0e-8b9b-45bc-afe6-5149825c45c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c9f6446a523c744c2a777693799aca7f</value>
+      <webElementGuid>c2f306a5-36bb-4178-af97-ed3d7c12f261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#tata-tertib')]</value>
+      <webElementGuid>9df9c022-b37d-4adf-ab42-45d46e33b849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#tata-tertib')]</value>
+      <webElementGuid>ed8d2b62-53ac-4bdb-87e1-2cd5c98bc319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SigosiWeb/public/#tata-tertib' and (text() = 'Tata Tertib' or . = 'Tata Tertib')]</value>
+      <webElementGuid>f423a4c6-cad1-47a3-953b-8092c7535902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

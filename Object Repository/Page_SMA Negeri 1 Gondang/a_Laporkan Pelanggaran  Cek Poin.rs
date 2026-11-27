@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Laporkan Pelanggaran  Cek Poin</name>
+   <tag></tag>
+   <elementGuidId>c7da9de8-863a-4cc8-b079-8375241a8d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.link[href=&quot;\/SigosiWeb\/public\/\#laporkan&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#laporkan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu >> internal:role=link[name=&quot;Laporkan Pelanggaran &amp; Cek Poin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>95de8375-4525-4988-8c95-36a8270cc681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>7b32f19f-d99a-4cb5-bde4-0c94494eff96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SigosiWeb/public/#laporkan</value>
+      <webElementGuid>8a3b88e5-5f81-4f9e-906d-097aa2fa0dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporkan Pelanggaran &amp; Cek Poin</value>
+      <webElementGuid>5f1c9b46-4f5e-4e12-a60b-acbf15595b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4b72ddacf7094170a70eeb69dba0428a</value>
+      <webElementGuid>4f023c1a-efd4-4028-b006-9310be6830ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#laporkan')]</value>
+      <webElementGuid>45e72334-df87-4513-8646-14a9e6ea85c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' link ') and (@href = '/SigosiWeb/public/#laporkan')]</value>
+      <webElementGuid>b32da8e1-7e18-473f-8699-1ef9264c7b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SigosiWeb/public/#laporkan' and (text() = 'Laporkan Pelanggaran &amp; Cek Poin' or . = 'Laporkan Pelanggaran &amp; Cek Poin')]</value>
+      <webElementGuid>c95d6df4-35a8-4bc7-8b5f-a190a2d46b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

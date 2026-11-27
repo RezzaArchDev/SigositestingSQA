@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan</name>
+   <tag></tag>
+   <elementGuidId>b4a93508-fefa-4fed-b2b2-2a57fa16478c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-sp = 'manual']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-sp=&quot;manual&quot;] .btn-p[type=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a139f6a3-20f4-4e0c-aaf2-b941a6575615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>290d6f5a-fb6a-4b32-acd9-2b9df169100f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-p</value>
+      <webElementGuid>d9f34390-c1a5-42b3-ada8-14d6dd2c22d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>90ac901b-f917-4592-b422-d57b2326320a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f910040099182fe881c29b0f6b56ce51</value>
+      <webElementGuid>82db42fd-c26b-4c9b-98f8-18e1d081bbae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-sp = 'manual']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      <webElementGuid>235139eb-757d-4aa4-ad88-4940ccc27f22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-sp = 'manual']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
+      <webElementGuid>02988e18-0edf-41cb-a1d7-43d05875fee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>c8aa948a-fc14-46f0-bde5-fc81c7a5f03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

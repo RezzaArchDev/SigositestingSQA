@@ -6,6 +6,10 @@
    <elementGuidId>b57dee82-6a98-4607-8dcb-520dac73ce3e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/siswa' and (text() = 'Data Siswa &amp; Kelas' or . = 'Data Siswa &amp; Kelas')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//*[@aria-label = 'Menu admin']//*[@href = '/SigosiWeb/public/admin/siswa']</value>
       </entry>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8e533c73-1d69-41f6-91f0-2f181e313ae7</webElementGuid>
+      <webElementGuid>d132fb7f-b155-42ce-ab5d-544f7a925fd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/SigosiWeb/public/admin/siswa</value>
-      <webElementGuid>1be6947b-873f-43d0-8869-d2eeff52fbc9</webElementGuid>
+      <webElementGuid>cba268c8-4575-4e38-8c9b-c6cc0286946b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Data Siswa &amp; Kelas</value>
-      <webElementGuid>3f7501ea-9c29-4a2c-80f5-fced3aa8fdda</webElementGuid>
+      <webElementGuid>d44222db-04e8-4e80-9e86-9d78e6df0859</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-aca5cebba25f9c67b6df546379ae70a7</value>
-      <webElementGuid>5e8fd9c0-cbfa-420c-8470-64cecbf2ba80</webElementGuid>
+      <webElementGuid>ec50ed6c-29e9-4cff-a20f-4cb4ae2b8a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Menu admin']//*[@href = '/SigosiWeb/public/admin/siswa']</value>
-      <webElementGuid>505fa953-4f9a-4890-a2c2-090a8d367909</webElementGuid>
+      <webElementGuid>b68602c4-0cd7-4f8b-8438-36b1534f79ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Menu admin']//*[@href = '/SigosiWeb/public/admin/siswa']</value>
-      <webElementGuid>a620cb40-38e6-430c-9f97-a66ad0c162be</webElementGuid>
+      <webElementGuid>25475a71-841c-4719-acf8-30fda80f756c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/SigosiWeb/public/admin/siswa' and (text() = 'Data Siswa &amp; Kelas' or . = 'Data Siswa &amp; Kelas')]</value>
-      <webElementGuid>89df395b-3db7-41c6-9b0d-c7dac6286de3</webElementGuid>
+      <webElementGuid>7b57f659-43f3-4e3a-b7e7-4bbd44e50560</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

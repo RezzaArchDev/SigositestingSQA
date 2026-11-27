@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Cth_ Kantin Belakang, Area Parkir Timur, L</name>
+   <tag></tag>
+   <elementGuidId>e583367c-2939-4a54-bd4d-8a89c190d622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lokasi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'lokasi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Cth: Kantin Belakang, Area Parkir Timur, Lab Komputer 2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2e703041-b12e-4b0f-bd1f-4b7f1e27238a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lokasi</value>
+      <webElementGuid>e61b35fa-7032-4daf-ac94-8cd813398c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>lokasi</value>
+      <webElementGuid>bb9c8c70-471b-4df3-beaf-f7aa0e5b7b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0ba5d17f-a59c-4a7f-a763-158275c04ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>b2a32ca6-29b9-4736-be06-9516b9e70830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cth: Kantin Belakang, Area Parkir Timur, Lab Komputer 2</value>
+      <webElementGuid>13c4653d-3254-4fa9-918a-d62fb0ef9b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7f495b106c95594e712cec24fada5084</value>
+      <webElementGuid>79d0f1ba-b194-4006-8903-0bdb09a0e895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'lokasi']</value>
+      <webElementGuid>ca18fbaa-47b6-44ab-9766-c5a186ad66af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'lokasi']</value>
+      <webElementGuid>ca65dee2-91d0-4a7d-8286-9d51c1409b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'lokasi' and @name = 'lokasi' and @type = 'text' and @placeholder = 'Cth: Kantin Belakang, Area Parkir Timur, Lab Komputer 2']</value>
+      <webElementGuid>60e14911-00c6-40af-aa31-5f01b3fa9470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>1d00ee6d-df7c-41ef-8611-5fc68ea39679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@data-tingkat = 'X') and (position() = 4)]//*[(@data-modal = 'm-kelas') and (@title = 'Edit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-tingkat=&quot;X&quot;]:nth-child(4) [data-modal=&quot;m-kelas&quot;][title=&quot;Edit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;4 X 4 X 2026/2027 wali kelas X 4 0 Edit Lihat siswa Hapus&quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ab40f1f-d7ad-4a5d-bea6-7087d40b8dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6103ca33-f637-4eab-a8ef-bd755ccf0216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ab blue</value>
+      <webElementGuid>2c662897-6d6b-43a8-9173-b52a26aa1116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>655707db-5e5b-40d8-aabb-1b3af6fb033c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modal</name>
+      <type>Main</type>
+      <value>m-kelas</value>
+      <webElementGuid>ec22c7e4-800f-486c-b899-bff8aaafa9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-json</name>
+      <type>Main</type>
+      <value>{&quot;id&quot;:15,&quot;nama_kelas&quot;:&quot;X 4&quot;,&quot;tingkat&quot;:&quot;X&quot;,&quot;tahun_pelajaran&quot;:&quot;2026\/2027&quot;,&quot;wali_kelas_id&quot;:16}</value>
+      <webElementGuid>6cafdad8-eec0-4791-89c4-a44f23b34763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-155328b1ae148cb88b8175354cd06ff7</value>
+      <webElementGuid>cdae2ab5-3d63-4927-a7b4-cc5bef314469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-tingkat = 'X') and (position() = 4)]//*[(@data-modal = 'm-kelas') and (@title = 'Edit')]</value>
+      <webElementGuid>838cff24-b108-419d-8ccd-9edfff79f24d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-tingkat = 'X') and (position() = 4)]//*[(@data-modal = 'm-kelas') and (@title = 'Edit')]</value>
+      <webElementGuid>77d2e1c1-1267-49a4-876c-92c230dfbd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Edit']</value>
+      <webElementGuid>99b02e85-ee97-4c84-9408-1b0c35683e74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

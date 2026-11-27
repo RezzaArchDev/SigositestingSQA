@@ -6,12 +6,16 @@
    <elementGuidId>92056dbe-2d68-4c32-994b-abddde1ba95b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@href = '/SigosiWeb/public/admin/riwayat']</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/riwayat' and (text() = 'Riwayat Aktivitas' or . = 'Riwayat Aktivitas')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>[href=&quot;\/SigosiWeb\/public\/admin\/riwayat&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/SigosiWeb/public/admin/riwayat']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4da9d06d-12b4-4aa6-90a3-3191a3c3307e</webElementGuid>
+      <webElementGuid>dfa443da-72bd-44a9-9820-ff1ef30458da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/SigosiWeb/public/admin/riwayat</value>
-      <webElementGuid>e3f3bcaf-5ae2-4e1d-9cd1-f259566bef7c</webElementGuid>
+      <webElementGuid>91def1c7-6e97-4607-9def-6dae82a306a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Riwayat Aktivitas</value>
-      <webElementGuid>c9d1ec78-92fb-4410-9e00-a04e926293e4</webElementGuid>
+      <webElementGuid>29eaddc7-8fd6-47e6-8145-cd84f51857d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ff3fa6391ffd35815386c660ad75a5e6</value>
-      <webElementGuid>1df7c9e1-f99b-4b8d-85ee-5ba6b40d78ee</webElementGuid>
+      <webElementGuid>55867312-006e-4c18-b914-fba927dbcf44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/riwayat']</value>
-      <webElementGuid>c2697b61-e02e-4562-86b7-8c80d277762b</webElementGuid>
+      <webElementGuid>3bc85601-12cf-4b3f-925a-4c1726ae79cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/SigosiWeb/public/admin/riwayat']</value>
-      <webElementGuid>34798dbc-4960-4606-834b-d7518738178c</webElementGuid>
+      <webElementGuid>dfb1f305-a988-467d-a9f8-b410625b9f82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/SigosiWeb/public/admin/riwayat' and (text() = 'Riwayat Aktivitas' or . = 'Riwayat Aktivitas')]</value>
-      <webElementGuid>67c45830-00c3-4a16-ac9a-2b27ec4b845e</webElementGuid>
+      <webElementGuid>5e0b30d1-d70a-4bc2-be35-48c6f37f907f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

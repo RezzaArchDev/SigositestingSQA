@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan 7 digit Nomor Induk</name>
+   <tag></tag>
+   <elementGuidId>f3873c93-cf4e-410a-ae86-90bd0e3a4628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'nisn' and @name = 'nisn' and @type = 'text' and @placeholder = 'Masukkan 7 digit Nomor Induk']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'nisn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nisn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan 7 digit Nomor Induk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bd99ea3b-b953-407f-bd0e-bf4c9cd3441e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nisn</value>
+      <webElementGuid>7d55ffc8-72b7-4643-85b4-e1b36cfb2607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nisn</value>
+      <webElementGuid>061ebea5-b73a-4634-b22c-ed1a555eaf75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>162a2579-0517-4de2-bb22-edb547dbf421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>915b3602-a0d0-4b70-8516-f43df34b8eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pattern</name>
+      <type>Main</type>
+      <value>[0-9]{7}</value>
+      <webElementGuid>e65dd775-6fc2-41f9-9083-4b0eb8c2194d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>07b8beb3-600a-485f-b050-efb4e5297311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan 7 digit Nomor Induk</value>
+      <webElementGuid>96642d92-97a0-48ed-8520-ea0eac7fa5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-04c4c5d128f0de1c6a3bc7c735e23885</value>
+      <webElementGuid>c061600b-5fec-4856-b944-bb43be487c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'nisn']</value>
+      <webElementGuid>37e62595-f6e8-4919-a03d-66b0afb024b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'nisn']</value>
+      <webElementGuid>8a9dbab1-590f-4803-9cbd-09c73e355d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'nisn' and @name = 'nisn' and @type = 'text' and @placeholder = 'Masukkan 7 digit Nomor Induk']</value>
+      <webElementGuid>ea22bc4e-9073-47df-9b0d-2774043252b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

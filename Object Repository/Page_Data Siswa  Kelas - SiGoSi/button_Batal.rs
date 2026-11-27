@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Batal</name>
+   <tag></tag>
+   <elementGuidId>39f69cab-2764-4d71-ba08-c660530c4822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Batal' or . = 'Batal')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-k-teks-edit = 'Apakah Anda yakin ingin menyimpan perubahan kelas {nama_kelas}?']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-s ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-k-teks-edit=&quot;Apakah\ Anda\ yakin\ ingin\ menyimpan\ perubahan\ kelas\ \{nama_kelas\}\?&quot;] .btn-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Batal&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c015a146-0887-484f-b51b-8f3339a4aed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba9f105b-375c-442f-a754-17ef0713c35b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-s</value>
+      <webElementGuid>422a5178-4dcf-444b-9a13-078b7dd52590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batal</value>
+      <webElementGuid>a9378b7c-ea36-421e-b537-d7777ab30dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c55dfb0b48d874df86e35a6fb1ec24ca</value>
+      <webElementGuid>2b47f972-c600-409b-b982-7cc6d7b18b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-k-teks-edit = 'Apakah Anda yakin ingin menyimpan perubahan kelas {nama_kelas}?']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-s ')]</value>
+      <webElementGuid>3cc5d998-6d4b-41df-9f1b-57b63cefad64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-k-teks-edit = 'Apakah Anda yakin ingin menyimpan perubahan kelas {nama_kelas}?']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-s ')]</value>
+      <webElementGuid>86d1c512-36c6-4dff-b67e-e163a96be2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Batal' or . = 'Batal')]</value>
+      <webElementGuid>a73aac3e-2424-446c-b83f-96936d2f7d90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

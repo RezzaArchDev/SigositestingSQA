@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-14.2</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E REZZA WAHYU SETYA ADHY</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E REZZA WAHYU SETYA ADHY</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>cd3a67fa-d9ab-4993-98e1-6a73a2ccfaef</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>cd3a67fa-d9ab-4993-98e1-6a73a2ccfaef</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc1fb2ca-df9f-4b76-bdf6-6d04e2432997</testCaseGuid>
+</TestCaseEntity>
