@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b5d21942-7fce-4993-aca4-977bf42bb160</webElementGuid>
+      <webElementGuid>b99c1597-7297-419f-a394-f1d1cbc0cc37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e22cef74-c870-4c06-80a0-2b8d502f93c5</webElementGuid>
+      <webElementGuid>a4180f4e-cfa8-4951-a113-ad3c80308e5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-p</value>
-      <webElementGuid>3e713fdd-5cf9-4690-8da7-54c035fd86ce</webElementGuid>
+      <webElementGuid>09a715c0-936b-4d5b-8165-af1f6eb905cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>3ef604bc-33fe-40e1-828e-5e1b96caaf1c</webElementGuid>
+      <webElementGuid>18a86345-cfb6-409c-988e-ef32eb1a4094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-fc8a3f6a6c9cb4baf5257d22c18c3c76</value>
-      <webElementGuid>6c404855-c402-4f67-916d-5585c3d00d9b</webElementGuid>
+      <webElementGuid>0800f46c-a04b-4e40-b37d-2543405b7b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@data-ks-ok = '']</value>
-      <webElementGuid>1566f7f8-5296-4cf6-ace0-91e0d399d2e6</webElementGuid>
+      <webElementGuid>5addc87e-28b1-486e-b443-b3ebf57932db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@data-ks-ok = '']</value>
-      <webElementGuid>25b27557-d543-4d80-a68f-32ffa8b2a4bf</webElementGuid>
+      <webElementGuid>d2e1ef03-ac44-4bc5-a358-9d9894ee9693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>d4a2adfc-ac64-4858-9c76-33296380fe61</webElementGuid>
+      <webElementGuid>0638fe8e-8d66-4b93-b4f8-1017af4d6028</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

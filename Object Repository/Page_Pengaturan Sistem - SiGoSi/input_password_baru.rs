@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1be104e5-af08-4606-8e98-ebc0469d861c</webElementGuid>
+      <webElementGuid>fc61257d-c198-4dfd-9914-c8d2192bd9d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>fbfabdc8-5638-4b0c-8a59-f8d778de7809</webElementGuid>
+      <webElementGuid>2151a0e2-81a9-498d-a5cb-e89746f33a1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password_baru</value>
-      <webElementGuid>2e544f9d-d074-4d28-9cc5-c13978548a8c</webElementGuid>
+      <webElementGuid>9bb9c8e5-d61d-4d39-bb89-ca65c5b36c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>72</value>
-      <webElementGuid>8f730f2c-a213-42b4-b1a8-25360fc757bb</webElementGuid>
+      <webElementGuid>ee2d3ec2-9406-4f50-87df-8c63c28d9f5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>new-password</value>
-      <webElementGuid>bf52b41b-f6e7-41dd-94fb-6b48e1c18eb0</webElementGuid>
+      <webElementGuid>21bf390b-da89-4ded-b34a-958eaf10cfa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-c064fb3d529d65a32a04e215ddae0973</value>
-      <webElementGuid>a9281aec-1a79-4238-be80-4345deb5a4ad</webElementGuid>
+      <webElementGuid>7de56220-7cd0-453e-9ddd-39e2978eb59f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'password_baru']</value>
-      <webElementGuid>961e5f37-4263-4b37-be9b-050640b0ee33</webElementGuid>
+      <webElementGuid>dd9e810e-5f01-4563-95a0-2b5418101b3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'password_baru']</value>
-      <webElementGuid>33a1be8d-b14a-4ebf-a241-9d7eddd2f93a</webElementGuid>
+      <webElementGuid>1c27caca-5dbd-47cb-8e86-916b08d98e45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password_baru']</value>
-      <webElementGuid>d55eb9f0-e77d-4505-83e4-e893967b894d</webElementGuid>
+      <webElementGuid>4581dba2-5d8b-4e89-bec8-72af5bc7d122</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

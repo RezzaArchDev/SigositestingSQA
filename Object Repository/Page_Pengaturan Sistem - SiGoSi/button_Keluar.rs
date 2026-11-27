@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7b12ecd4-dbc3-4ed5-b53c-079dd8102a7e</webElementGuid>
+      <webElementGuid>22038a4a-df74-4271-b134-fca5965ea703</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>7720f941-544c-440f-be5a-01659e89e05d</webElementGuid>
+      <webElementGuid>878ca7dc-2993-451b-b71b-07629744196e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>logout</value>
-      <webElementGuid>1a2f101d-7650-4482-b758-f0c9c3a2d1f1</webElementGuid>
+      <webElementGuid>f88612e4-9ab6-4469-907a-1ff4eb391431</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Keluar</value>
-      <webElementGuid>decf5dbe-baa1-44a3-883a-793f0823c74d</webElementGuid>
+      <webElementGuid>c8e6e5d7-fc34-44e5-9818-32b4e7083e8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-abc9c317ffa7d037eec260d1fd25d67a</value>
-      <webElementGuid>8d26fd9b-24bf-4741-b005-dabfa328f5f3</webElementGuid>
+      <webElementGuid>c97665ba-2448-4b0e-a1ca-881834c872f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' logout ')]</value>
-      <webElementGuid>43d646a0-7da8-48da-ab67-b9953a582cea</webElementGuid>
+      <webElementGuid>472b253b-878c-4b67-a545-7373fdc64d2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' logout ')]</value>
-      <webElementGuid>cb126cec-64b2-4946-a8c1-392d7776a029</webElementGuid>
+      <webElementGuid>74eb7491-68cd-4f1c-8eae-b8f96454c136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Keluar' or . = ' Keluar')]</value>
-      <webElementGuid>6f1276e1-f804-4af7-ad05-8a1c325c2d03</webElementGuid>
+      <webElementGuid>75f97fc6-f903-44ba-9af9-3452e8387366</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

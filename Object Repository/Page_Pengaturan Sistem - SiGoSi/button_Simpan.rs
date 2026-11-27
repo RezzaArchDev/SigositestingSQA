@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eb5dbd9c-a3cd-4f22-8247-4f3c2676b5fb</webElementGuid>
+      <webElementGuid>017a5c1b-8be4-489a-aa13-12b821f1bde1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>9cc68754-e9fc-4527-9d67-448633b44f9a</webElementGuid>
+      <webElementGuid>537a7f5b-1a07-4ce5-876c-85c6411cc7b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-p</value>
-      <webElementGuid>2cbf66a1-fd6b-406a-a638-2c6abe06c3ae</webElementGuid>
+      <webElementGuid>c62efa34-515e-4873-9b77-a754a82c3cb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>84e4391e-0fb7-48a8-9509-c54c16e68699</webElementGuid>
+      <webElementGuid>71d678dd-c113-49ac-abeb-485fe02647a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-356dc3ce20e07ee7379967cadd7bd2a4</value>
-      <webElementGuid>7f8193c7-a8a4-47e1-bb64-91262cbf4fdd</webElementGuid>
+      <webElementGuid>6d863337-7be3-4180-810f-a739996b1321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fld ') and contains(concat(' ', normalize-space(@class), ' '), ' end ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
-      <webElementGuid>3df6a5f9-5474-4635-b6fa-4c4243a409a5</webElementGuid>
+      <webElementGuid>03db6530-7c16-4205-849c-59e38848073c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fld ') and contains(concat(' ', normalize-space(@class), ' '), ' end ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-p ') and (@type = 'submit')]</value>
-      <webElementGuid>4b562db4-4b5b-42fa-b29d-5fe00665783e</webElementGuid>
+      <webElementGuid>7de0e477-7f96-46af-8cbf-d7a6791e5546</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>e2883bf1-5043-4ee3-bf81-b7c4b18a65c1</webElementGuid>
+      <webElementGuid>50232ebe-db9b-4219-a2fd-331f5c1f7f30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

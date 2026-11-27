@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>85f22bba-30c1-48ff-bae5-3cc84ee8a781</webElementGuid>
+      <webElementGuid>9773f23c-a400-4544-a867-9223a3f110ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-login</value>
-      <webElementGuid>d8514365-02f0-435a-83c0-54746362f5e2</webElementGuid>
+      <webElementGuid>5929e110-5a2a-4301-a707-a08a49688f0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>87562498-2b9b-41b5-a9bd-92a1965595d7</webElementGuid>
+      <webElementGuid>c2945f27-2257-4b4b-9c2e-82d0b2d7e14d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>2fa9fe31-1d3c-46c2-a487-2ed44c965957</webElementGuid>
+      <webElementGuid>69398406-cfa3-432d-81cd-08ad97e04ae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-17426622019fb48d4e9d8381918d3b46</value>
-      <webElementGuid>7801bd55-7bd8-43e1-b988-14304b86cd44</webElementGuid>
+      <webElementGuid>e81702ad-034c-4f7e-a6f6-06b01af9bd97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>fea37de2-e383-4fa8-a191-662cd94a5c94</webElementGuid>
+      <webElementGuid>9fdd77b7-45d2-4826-bd2b-f2512da0ccc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>2f3beb36-aa77-4bdf-864d-9cfa1845e220</webElementGuid>
+      <webElementGuid>adb463cb-68c9-4e82-8fcd-d42801e741f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>d07c29db-7560-4c9f-987a-563d1bec9698</webElementGuid>
+      <webElementGuid>2b179c25-6565-4083-8b6c-16eb9dd61fc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

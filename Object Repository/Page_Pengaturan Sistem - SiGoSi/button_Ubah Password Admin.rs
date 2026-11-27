@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1c43e018-e378-4977-b4f4-142f52302c23</webElementGuid>
+      <webElementGuid>6a850af7-c5e4-4fd1-9bf8-6b304533231e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>data-t</name>
       <type>Main</type>
       <value>p-pass</value>
-      <webElementGuid>ac486928-936b-494e-a308-a19221793365</webElementGuid>
+      <webElementGuid>96eff926-24eb-42c9-8b4f-baeb879582b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ubah Password Admin</value>
-      <webElementGuid>24d30fdf-bc79-4d82-b406-8669da919ac0</webElementGuid>
+      <webElementGuid>35af1beb-fd94-4b08-b06c-c6cb47147b20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-afbd83008a39e2321065e09eb91e45c2</value>
-      <webElementGuid>e52684bb-99e2-48fc-8c4d-667c211ba552</webElementGuid>
+      <webElementGuid>41ecfb76-89bc-492a-9260-fc389d78e2d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@data-t = 'p-pass']</value>
-      <webElementGuid>87a2de1b-3475-4b46-9608-2aa20d1fa68d</webElementGuid>
+      <webElementGuid>5779c230-112c-467e-9078-d68da012d2ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@data-t = 'p-pass']</value>
-      <webElementGuid>06df0ff1-9807-4afe-a412-cdab0cd27348</webElementGuid>
+      <webElementGuid>d7d9c3d7-cf2f-456e-8f9c-a0f0aa8363fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ubah Password Admin' or . = 'Ubah Password Admin')]</value>
-      <webElementGuid>f0521525-ff9e-4e53-9e99-81461c4d5cd6</webElementGuid>
+      <webElementGuid>1691648e-56af-4a0f-8189-66d604152853</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
